@@ -28,4 +28,4 @@ erehT era a wef seuqinhcet ro skcirt taht uoy yam dnif ydnah
 s = input("Please enter a string of text (the bigger the better): ")
 print(s[::-1])
 wlist = s.split()
-print(wlist)
+print(' '.join((wlist[::-1])))
