@@ -2,6 +2,7 @@
 stringjumble.py
 Author: Nathan Subrahmanian
 Credit: https://www.youtube.com/watch?v=OFSELeMx2nE
+        https://stackoverflow.com/questions/9050355/using-quotation-marks-inside-quotation-marks
 
 Assignment:
 
