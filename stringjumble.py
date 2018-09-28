@@ -1,7 +1,7 @@
 """
 stringjumble.py
 Author: Nathan Subrahmanian
-Credit: N/A
+Credit: https://www.youtube.com/watch?v=OFSELeMx2nE
 
 Assignment:
 
