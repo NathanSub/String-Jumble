@@ -31,4 +31,4 @@ print("You entered \"{0}\". Now jumble it: ".format(s))
 print(s[::-1])
 wlist = s.split()
 print(' '.join((wlist[::-1])))
-print(
+print(s[::-1])
